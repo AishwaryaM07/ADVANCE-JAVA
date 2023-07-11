@@ -1,0 +1,50 @@
+//program for positive or negative
+public class Exercise{
+  public static void main(String[]args){
+    int num=89;
+if(num>0){
+  System.out.println("positive");}
+else if(num<0){
+  System.out.println("negative");}
+else
+{
+  System.out.prinln("zero")
+    }
+  }
+}
+//program for greater number
+public class Exercise2{
+  public static void main(Sring[]args){
+    int num1=34;
+    int num2=23;
+if(num1>num2){
+  System.out.println(num1);}
+esle
+{
+  System.out.println(num2);}
+  }
+}
+//program for even or odd
+public class Exercise3{
+  public static void main(Sring[]args){
+    int num=23;
+if(num/2==0){
+  System.out.println("even");}
+else
+{
+  System.out.println("odd");}
+  }
+}
+//program for sum of two num is odd or even
+public class Exercise4{
+  public static void main(Sring[]args){
+    int num1=34;
+    int num2=23;
+    int z=num1+num2;
+if(z/2==0){
+  System.out.println("even");}
+ else
+{
+  System.out.println("odd");}
+  }
+}
